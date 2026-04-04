@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?style=flat-square&logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 > A machine learning project that predicts the risk level of lung cancer in patients based on environmental exposure factors, lifestyle habits, and clinical symptoms — enabling early-stage risk stratification.
 
@@ -155,12 +154,6 @@ jupyter notebook LungCancerPrediction.ipynb
 **Praasuk Jain**
 - GitHub: [@PJ2001-IND](https://github.com/PJ2001-IND)
 - LinkedIn: [praasuk-jain](https://www.linkedin.com/in/praasuk-jain-425b6b1a3/)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
