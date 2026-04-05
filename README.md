@@ -5,7 +5,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?style=flat-square&logo=scikit-learn)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=flat-square&logo=openai)
 ![Status](https://img.shields.io/badge/Status-Production--Grade%20In%20Progress-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-Academic-lightgrey?style=flat-square)
 
 > A machine learning research project developed as part of a Final Thesis Report that predicts lung cancer risk in patients using environmental exposure factors, lifestyle habits, demographic data, and clinical symptoms — enabling early-stage risk stratification without reliance on medical imaging or laboratory diagnostics. This project is actively being evolved into a **production-grade, AI-powered medical decision support tool**.
 
